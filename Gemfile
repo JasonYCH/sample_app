@@ -17,6 +17,8 @@ group :test do
   gem 'capybara', '2.1.0'
 end
 
+gem 'bootstrap-sass', '3.1.1.0'
+gem 'sprockets', '2.11.0'
 gem 'sass-rails', '~> 4.0.0.rc2'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
